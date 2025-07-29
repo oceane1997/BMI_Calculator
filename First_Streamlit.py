@@ -103,6 +103,7 @@ if st.button(" Calculate BMI") :
 else:
   st.text("Please enter an Height > 0 to calculate the BMI")
 
+st.write("🔁 Ceci est une mise à jour du projet")
 
 
 
